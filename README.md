@@ -3,6 +3,8 @@
 **Author**: KP Gomez
 **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
 
+Netlify
+
 ## Overview
 <!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for this class. (i.e. What's your problem domain?) -->
 
@@ -31,3 +33,19 @@ Start time: 9:45 a.m.
 Finish time: 10:40 a.m.
 
 Actual time needed to complete: 1 hr -->
+
+<hr>
+
+<!--Name of feature: Locations
+
+Estimate of time needed to complete: 1 hr
+
+Start time: 3:15 p.m. 4:30 p.m.
+
+Finish time: 4:00
+
+Actual time needed to complete:  hr -->
+
+## References
+[React-Bootstrap Forms](https://react-bootstrap.github.io/forms/overview/)
+[Class Demo - Unsplash Frontend](https://github.com/codefellows/seattle-code-301n30/tree/main/class-08/demo/lecture-demo/frontend)

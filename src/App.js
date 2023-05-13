@@ -19,18 +19,23 @@ class App extends React.Component {
 
   handleSearchQuery = async (e) => {
     e.preventDefault();
-    const url = `https://us1.locationiq.com/v1/search.php?key=${process.env.REACT_APP_LOCATIONIQ_KEY}&q=${this.state.searchQuery}&format=json`;
-    console.log(url);
-    const response = await axios.get(url);
-    console.log(response.data[0]);
-    this.setState({
-      displayInfo: true,
-      city: response.data[0]
-    });
+    try {
+      const url = `https://us1.locationiq.com/v1/search.php?key=${process.env.REACT_APP_LOCATIONIQ_KEY}&q=${this.state.searchQuery}&format=json`;
+      console.log(url);
+      const response = await axios.get(url);
+      console.log(response.data[0]);
+      this.setState({
+        displayInfo: true,
+        city: response.data[0]
+      });
 
-    console.log(response.data[0].lat);
-    console.log(response.data[0].lon);
-
+      console.log(response.data[0].lat);
+      console.log(response.data[0].lon);
+    }
+    catch(error){
+      document.write(error);
+      document.write(': Unable to geocode')
+    }
   }
 
   render() {

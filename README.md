@@ -40,11 +40,11 @@ Actual time needed to complete: 1 hr -->
 
 Estimate of time needed to complete: 1 hr
 
-Start time: 3:15 p.m. 4:30 p.m.
+Start time: 3:15 p.m.
 
-Finish time: 4:00
+Finish time: 4:30 p.m
 
-Actual time needed to complete:  hr -->
+Actual time needed to complete:  1 hr and 15 minutes -->
 
 ## References
 [React-Bootstrap Forms](https://react-bootstrap.github.io/forms/overview/)

@@ -22,12 +22,12 @@
 
 ## Time Estimates
 
-<!--Name of feature: ________________________________
+<!--Name of feature: Set up your React repository & API keys
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1 hr
 
-Start time: _____
+Start time: 9:45 a.m.
 
-Finish time: _____
+Finish time: 10:40 a.m.
 
-Actual time needed to complete: _____ -->
+Actual time needed to complete: 1 hr -->

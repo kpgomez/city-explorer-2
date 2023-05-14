@@ -46,6 +46,18 @@ Finish time: 4:30 p.m
 
 Actual time needed to complete:  1 hr and 15 minutes -->
 
+<hr>
+
+<!--Name of feature: Map
+
+Estimate of time needed to complete: 1 hr
+
+Start time: 5:15 p.m.
+
+Finish time: 
+
+Actual time needed to complete:   -->
+
 ## References
 [React-Bootstrap Forms](https://react-bootstrap.github.io/forms/overview/)
 [Class Demo - Unsplash Frontend](https://github.com/codefellows/seattle-code-301n30/tree/main/class-08/demo/lecture-demo/frontend)
